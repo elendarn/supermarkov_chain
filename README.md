@@ -10,7 +10,7 @@ The main objectives of this project are as follows:
 
 1. **Data Exploration**: Perform a comprehensive exploration of the DOODL Supermarket dataset to gain an understanding of its structure, variables, and potential relationships.
 
-2. **Customer Segmentation**: Utilize advanced machine learning techniques to segment customers into distinct types based on their behavior, such as shopping preferences, timing, and movement patterns within the supermarket.
+2. **Customer Segmentation**: Segment customers into distinct types based on their behavior, such as shopping preferences, timing, and movement patterns within the supermarket.
 
 3. **Markov Chain Modeling**: Develop Markov chain models to capture the probabilistic transitions between different supermarket areas and customer states. This enables us to simulate customer movements and evaluate the impact on traffic and congestion levels.
 
