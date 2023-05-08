@@ -33,7 +33,7 @@ To replicate and explore the analysis conducted in this project, follow these st
 1. Clone the repository to your local machine using the command:
 
    ```
-   git clone https://github.com/your-username/markov-chain-mcmc-simulations.git
+   git clone https://github.com/elendarn/supermarkov_chain.git
    ```
 
 2. Install the required dependencies by running:
